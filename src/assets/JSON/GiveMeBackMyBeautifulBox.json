@@ -1,0 +1,987 @@
+[
+  {
+    "level": "S",
+    "name": "後梳油頭髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "蓬鬆短髮髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "空氣燙髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "旁分長髮髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "自然旁分髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "野蠻自然旁分髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "蓬蓬羊毛捲髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "捲翹雙辮髮髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "多層次捲髮髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "時尚的高馬尾髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "可愛雙馬尾髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "空氣瀏海長髮髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "神獸的守護者髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "布魯森化妝髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "月下的陰間使者髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "愛爾琳雜貨商髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "秘密森林髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "祕密別墅度假髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "日常中分瀏海髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "波浪的守護者髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "甜蜜美夢髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "甜蜜學院髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "聖誕祝福髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "神獸的守護者髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "布魯森化妝髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "月下的陰間使者髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "元素支配者髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "波浪的守護者髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "閃耀清澈的眼神(治療的祝福)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的閃耀清澈的眼神(治療的祝福)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "隱隱約約綻放的眼神(靈之氣息)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的隱隱約約綻放的眼神(靈之氣息)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "深邃的眼神(死神)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的深邃的眼神(死神)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "瞇眼凝視的眼神(寶石粉末)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的瞇眼凝視的眼神(寶石粉末)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "凝重的眼神(光之氣息)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的凝重的眼神(光之氣息)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "疲憊的眼神(大吉大利)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的疲憊的眼神(大吉大利)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "明亮的眼神(海洋)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的明亮的眼神(海洋)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "真摯閃爍的眼神(啟示的目光)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的真摯閃爍的眼神(啟示的目光)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "神秘的深邃眼神(妖魔的眼光)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的神秘的深邃眼神(妖魔的眼光)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "純真的清澈眼神(愛心)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的純真的清澈眼神(愛心)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "閃爍的眼神(淡淡星光)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的閃爍的眼神(淡淡星光)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "銳利的眼神(頭獎)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "白化的銳利的眼神(頭獎)美容兌換券",
+    "probability": 0.0653
+  },
+  {
+    "level": "S",
+    "name": "自然長髮髮型美容兌換券(女性用)",
+    "probability": 0.0109
+  },
+  {
+    "level": "S",
+    "name": "冷靜的低馬尾長髮髮型美容兌換券(女性用)",
+    "probability": 0.0136
+  },
+  {
+    "level": "S",
+    "name": "直溜溜長直髮髮型美容兌換券(女性用)",
+    "probability": 0.0136
+  },
+  {
+    "level": "S",
+    "name": "小碎髮長髮髮型美容兌換券(女性用)",
+    "probability": 0.0136
+  },
+  {
+    "level": "S",
+    "name": "學院風魅力髮型美容兌換券(女性用)",
+    "probability": 0.0136
+  },
+  {
+    "level": "S",
+    "name": "校園風雙馬尾髮型美容兌換券(女性用)",
+    "probability": 0.0218
+  },
+  {
+    "level": "S",
+    "name": "多比街頭髮型美容兌換券(男性用)",
+    "probability": 0.0218
+  },
+  {
+    "level": "S",
+    "name": "低雙馬尾髮型美容兌換券(女性用)",
+    "probability": 0.0218
+  },
+  {
+    "level": "S",
+    "name": "華麗仙人髮型美容兌換券(女性用)",
+    "probability": 0.0218
+  },
+  {
+    "level": "S",
+    "name": "希瑞絲長波浪髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "中分長髮髮型美容兌換券(男性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "愛爾蘭雙馬尾髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "黛伊爾布拉髮型美容兌換券(女性用)",
+    "probability": 0.0544
+  },
+  {
+    "level": "S",
+    "name": "拉比雙馬尾髮型美容兌換券(女性用)",
+    "probability": 0.0707
+  },
+  {
+    "level": "S",
+    "name": "比妮髮型美容兌換券(女性用)",
+    "probability": 0.0707
+  },
+  {
+    "level": "S",
+    "name": "王城魔法師髮型美容兌換券(女性用)",
+    "probability": 0.0707
+  },
+  {
+    "level": "S",
+    "name": "蒸氣技師髮型美容兌換券(女性用)",
+    "probability": 0.0707
+  },
+  {
+    "level": "S",
+    "name": "冬季森林朝聖者標準髮型美容兌換券(女性用)",
+    "probability": 0.0707
+  },
+  {
+    "level": "S",
+    "name": "暗影浪漢長髮髮型美容兌換券(男性用)",
+    "probability": 0.0707
+  },
+  {
+    "level": "S",
+    "name": "瀏海鬢角長髮型美容兌換券(女性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "無表情的淺色嘴型美容兌換券",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "魔王之眼(異色瞳)美容兌換券",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "純真長波浪捲髮髮型美容兌換券(女性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "中分長波浪髮型美容兌換券(男性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "更新特里歐納髮型美容兌換券(女性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "向後編髮髮型美容兌換券(女性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "愜意休閒髮型美容兌換券(女性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "夢中的流浪者眼神(靈之氣息)美容兌換券",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "魔王之眼(邪眼)美容兌換券",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "小耳朵發紅臉蛋美容兌換券(精靈女性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "自然長髮型美容兌換券(女性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "戰場的軍人肩上短髮髮型美容兌換券(女性用)",
+    "probability": 0.0761
+  },
+  {
+    "level": "S",
+    "name": "野蠻中分髮型美容兌換券(男性用)",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "妖怪的眼睛(異色瞳)美容兌換券",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "中長時尚髮型美容兌換券(男性用)",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "野性長髮髮型美容兌換券(男性用)",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "治癒的眼神(治療的祝福)美容兌換券",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "祕密花園髮型美容兌換券(女性用)",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "戰鬥型女僕髮型美容兌換券(女性用)",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "特別雙邊長馬尾假髮(女性用)美容兌換券(女性用)",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "西洋棋皇后的髮型美容兌換券(女性用)",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "妖怪的眼睛(妖魔的眼光)美容兌換券",
+    "probability": 0.0870
+  },
+  {
+    "level": "S",
+    "name": "可疑的少女髮型美容兌換券(女性用)",
+    "probability": 0.0870
+  },
+  {
+    "level": "A",
+    "name": "閃耀清澈的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的閃耀清澈的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "隱隱約約綻放的眼神((異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的隱隱約約綻放的眼神((異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "深邃的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的深邃的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "瞇眼凝視的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的瞇眼凝視的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "凝重的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的凝重的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "疲憊的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的疲憊的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "明亮的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的明亮的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "真摯閃爍的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的真摯閃爍的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "神秘的深邃眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的神秘的深邃眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "純真的清澈眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的純真的清澈眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "閃爍的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的閃爍的眼神異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "銳利的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "白化的銳利的眼神(異色瞳)美容兌換券",
+    "probability": 0.4895
+  },
+  {
+    "level": "A",
+    "name": "露出微笑的嘴巴美容兌換券",
+    "probability": 0.5439
+  },
+  {
+    "level": "A",
+    "name": "冷嘲熱諷的嘴巴美容兌換券",
+    "probability": 0.5439
+  },
+  {
+    "level": "A",
+    "name": "露出可愛笑容的嘴巴美容兌換券",
+    "probability": 0.5439
+  },
+  {
+    "level": "A",
+    "name": "豐滿的小嘴巴美容兌換券",
+    "probability": 0.5439
+  },
+  {
+    "level": "A",
+    "name": "緊閉的嘴巴美容兌換券",
+    "probability": 0.5439
+  },
+  {
+    "level": "A",
+    "name": "露出銳利微笑的嘴巴美容兌換券",
+    "probability": 0.5439
+  },
+  {
+    "level": "A",
+    "name": "粉紅唇蜜嘴型美容兌換券",
+    "probability": 0.4079
+  },
+  {
+    "level": "A",
+    "name": "表情僵硬的嘴型美容兌換券",
+    "probability": 0.4079
+  },
+  {
+    "level": "A",
+    "name": "小聲呢喃嘴型美容兌換券",
+    "probability": 0.4079
+  },
+  {
+    "level": "A",
+    "name": "想起什麼似的嘴巴美容兌換券",
+    "probability": 0.4079
+  },
+  {
+    "level": "A",
+    "name": "有自信的嘴型美容兌換券",
+    "probability": 0.4079
+  },
+  {
+    "level": "A",
+    "name": "散發明亮光芒的眼神美容兌換券",
+    "probability": 0.4079
+  },
+  {
+    "level": "A",
+    "name": "厚實的小嘴型美容兌換券",
+    "probability": 0.4079
+  },
+  {
+    "level": "A",
+    "name": "微下垂眼睛(異色瞳)美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "燦爛的寶石眼神(異色瞳)美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "燦爛的寶石眼神(海洋)美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "白化的清雅的眼神(異色瞳)美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "拉格玲奈的臉型美容兌換券(人類男性用)",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "掠過陰沉的眼神美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "溫柔凝視的眼神(異色瞳)美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "two Block定型髮型美容兌換券(男性用)",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "戰場的軍人短髮髮型美容兌換券(男性用)",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "冷酷風格髮型美容兌換券(女性用)",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "誘惑的眼神(可愛愛心)美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "裝可愛的嘴型美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "白化的飽含湖水的眼神(異色瞳)美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "貫穿的眼神(異色瞳)美容兌換券",
+    "probability": 0.4351
+  },
+  {
+    "level": "A",
+    "name": "祕法側馬尾髮型美容兌換券(女性用)",
+    "probability": 0.4623
+  },
+  {
+    "level": "A",
+    "name": "尖瘦下顎線臉型美容兌換券(巨人男性用)",
+    "probability": 0.4623
+  },
+  {
+    "level": "A",
+    "name": "白化的夢中的流浪者眼神(異色瞳)美容兌換券",
+    "probability": 0.4623
+  },
+  {
+    "level": "A",
+    "name": "旁分髮型美容兌換券(男性用)",
+    "probability": 0.4623
+  },
+  {
+    "level": "A",
+    "name": "畢奈的眼睛(異色瞳)美容兌換券",
+    "probability": 0.4623
+  },
+  {
+    "level": "A",
+    "name": "自然恐懼上旋風格髮型美容兌換券(女性用)",
+    "probability": 0.4623
+  },
+  {
+    "level": "B",
+    "name": "開朗微笑的嘴巴美容兌換券",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "鬥牛士的髮型美容兌換券(男性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "惡魔嘴型美容兌換券",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "野獸髮型美容兌換券(男性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "白化的落下陰影的眼神(異色瞳)美容兌換券",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "王城魔法師髮型美容兌換券(男性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "咀嚼的嘴型美容兌換券",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "狂野獵人髮型美容兌換券(男性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "國際高級學院髮型美容兌換券(男性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "白化的深深凝視眼神(異色瞳)美容兌換券",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "淚眼汪汪的眼神(淚水留下)美容兌換券",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "嬌羞的新娘髮型美容兌換券(女)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "白雪王子髮型美容兌換券(男性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "克赫蓮髮型美容兌換券(男性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "歐蘭髮型美容兌換券(男)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "形象高傲的眼睛(異色瞳)美容兌換券",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "卡茲遠髮型美容兌換券(女)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "大人眼下有痣臉龐美容兌換券(人類女性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "街頭髮型美容兌換券(女)",
+    "probability": 1.4684
+  },
+  {
+    "level": "B",
+    "name": "寶寶內彎髮型美容兌換券(女性用)",
+    "probability": 1.4684
+  },
+  {
+    "level": "C",
+    "name": "斯卡哈髮型美容兌換券(女)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "嘴下有小痣臉型美容兌換券(巨人女性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "宇宙王子髮型美容兌換券(男性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "慵懶的眼神美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "自然恐懼上旋風格髮型美容兌換券(男性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "生氣顫抖的嘴型美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "漂泊劍士的眼神美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "水母頭髮型美容兌換券(男性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "冬季皇家正式髮型美容兌換券(男性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "上梳俐落髮型美容兌換券(男)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "白化的誘惑眼神(可愛愛心)美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "耳朵下垂嘴下有小痣臉型美容兌換券(精靈女性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "看不到的嘴巴美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "可愛肉肉愛心星星臉型美容兌換券(人類女性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "可愛橢圓腮紅臉龐美容兌換券(人類女性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "白化的妖魔之眼(異色瞳)美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "貓咪笑的嘴巴美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "生氣的嘴巴美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "淚眼汪汪的嘴巴美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "小耳朵彩繪臉型美容兌換券(精靈女性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "白化的惡魔之眼(異色瞳)美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "白化的戰士的眼神(鬥志紅)美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "鼻梁高挺嘴下有小痣臉型美容兌換券(人類男性用)",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "迴避視線的眼神(異色瞳)美容兌換券",
+    "probability": 1.5228
+  },
+  {
+    "level": "C",
+    "name": "白化的戰士的眼神(異色瞳)美容兌換券",
+    "probability": 1.5228
+  }
+]

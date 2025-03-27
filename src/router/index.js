@@ -1,23 +1,80 @@
-import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import { createRouter, createWebHistory, createWebHashHistory } from 'vue-router'
+
+import HomeView from "../views/HomeView.vue";
+import CapyBaby from "../components/content/CapyBaby.vue";
+import AboutView from "../components/content/AboutView.vue";
+import MabinogiView from "../components/content/MabinogiView.vue";
+import LoginView from "../components/content/LoginView.vue";
+import MemberView from "../components/content/MemberView.vue";
+import { useStore } from "../stores/stores";
+
+import { watch } from "vue";
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',
-      name: 'home',
+      name: 'main',
       component: HomeView,
-    },
-    {
-      path: '/about',
-      name: 'about',
-      // route level code-splitting
-      // this generates a separate chunk (About.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import('../views/AboutView.vue'),
+      children: [
+        {
+          name: "home",
+          path: "home",
+          component: () => import(/* webpackChunkName: "CapyBaby" */ '../components/content/CapyBaby.vue')
+        },
+        {
+          name: "CapyBaby",
+          path: "CapyBaby",
+          component: CapyBaby,
+        },
+        {
+          name: "about",
+          path: "about",
+          component: AboutView,
+        },
+        {
+          name: "mabinogi",
+          path: "mabinogi",
+          component: MabinogiView,
+        },
+        {
+          name: "login",
+          path: "login",
+          component: LoginView,
+        },
+        {
+          name: "member",
+          path: "member",
+          component: MemberView,
+        },
+      ],
     },
   ],
 })
+
+// 判斷是否在相同路由，新舊SelectedPage來關閉菜單
+router.afterEach((_, __) => {
+  const SideBar = useStore();
+
+  watch(
+    () => SideBar.SelectedPage,
+    (newValue, oldValue) => {
+      if (newValue !== oldValue) {
+        SideBar.isMenuOpen = false;
+      }
+    }
+  );
+});
+
+router.beforeEach((_, __, next) => {
+  //-------------------------------------
+  const SideBar = useStore();
+
+  SideBar.isMenuOpen = false;
+
+  window.scrollTo(0, 0);
+  next();
+});
 
 export default router

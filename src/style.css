@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.textGreen {
+    color:#5B823C;
+}
+
+html, body {
+    touch-action: manipulation;
+}
