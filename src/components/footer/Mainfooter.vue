@@ -4,8 +4,12 @@ import { reactive } from 'vue';
 
 const FooterItem = reactive([
     {
-        name: "Discord",
-        route: "https://discord.gg/yJJjjbV3VX",
+        name: "instagram",
+        route: "https://www.instagram.com/capybaby_cc?igsh=eW4wazRmaGR6ZWN4&utm_source=qr",
+    },
+    {
+        name: "youtube",
+        route: "https://www.youtube.com/@capybaby_cc",
     },
 ]);
 </script>

@@ -55,7 +55,7 @@ const loginSubmit = async () => {
                     <label class="block text-sm font-medium leading-6 text-gray-900">電子信箱</label>
                     <div class="relative">
                         <Field type="text" name="email" placeholder="請輸入電子信箱" v-model="formData.email"
-                            @input="isEmailEntered = true" class="bg-[#f0f0f0]"
+                            @input="isEmailEntered = true" class="bg-[#ffffff]"
                             :class="borderColorClass(errors.email, isEmailEntered, formData.email)" />
                         <div class="absolute top-full left-0 w-full">
                             <ErrorMessage name="email" class="text-red-500 text-sm" />
@@ -69,7 +69,7 @@ const loginSubmit = async () => {
                     <div class="relative">
                         <Field :type="isPasswordVisible ? 'text' : 'password'" name="password" placeholder="請輸入密碼"
                             autocomplete="off" v-model="formData.password" @input="isPasswordEntered = true;"
-                            class="bg-[#f0f0f0]"
+                            class="bg-[#ffffff]"
                             :class="borderColorClass(errors.password, isPasswordEntered, formData.password)" />
 
                         <!-- Icon 位置 -->
@@ -86,7 +86,7 @@ const loginSubmit = async () => {
                 </div>
 
                 <div class="flex justify-center items-center p-3 ">
-                    <button type="submit" class="w-40 p-2 text-center rounded-[10px] bg-[#f5f5f5]">
+                    <button type="submit" class="w-40 p-2 text-center rounded-[10px] bg-[#ffffff] hover:bg-[#f5f5f5]">
                         登入
                     </button>
                 </div>

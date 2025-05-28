@@ -28,7 +28,8 @@
                 </div>
                 <ul class="list-decimal text-[18px] p-3">
                     <li>DC:ovoki221</li>
-                    <li>YT:<a href="https://www.youtube.com/@ovoki221" class="hover:text-[#5f6162]" >豚豚寶</a></li>
+                    <li>YT:<a href="https://www.youtube.com/@capybaby_cc" class="hover:text-[#5f6162]" >豚豚寶 @capybaby_cc</a></li>
+                    <li>IG:<a href="https://www.instagram.com/capybaby_cc?igsh=eW4wazRmaGR6ZWN4&utm_source=qr" class="hover:text-[#5f6162]" >豚豚寶 @capybaby_cc</a></li>
                 </ul>
             </div>
         </div>
